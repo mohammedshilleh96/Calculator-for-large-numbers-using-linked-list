@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1461579404 source:c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Calculate.c"
+
+1461573192 c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1461574488 c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\number.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1461431766 c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\addition.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"Subtraction.c"
+
+1461431843 c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\subtraction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"Division.c"
+	"Data.c"
+
+1461386758 c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\division.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"Multiplication.c"
+
+1461422560 c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\multiplication.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"Number.c"
+
+1461575800 c:\users\mohammed shilleh\desktop\codeblocks workspace\project#1\calculate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"Data.c"
+	"Number.c"
+
